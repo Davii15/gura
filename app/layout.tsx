@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "FarmLease Kenya | Agricultural Marketplace",
     description: "Lease farmland, plantations, and machinery in Kenya",
-    url: "https://bit.ly/farmkodi, https://www.farmlease.vercel.app",
+    url: "https://bit.ly/farmkodi, https://www.farmlease.vercel.app,https://www.farmkodi.vercel.app",
     siteName: "Farm Kodi",
     locale: "en_KE",
     type: "website",
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: "/farmlease.png", type: "image/png" },
+      { url: "/farmkodi.png", type: "image/png" },
       { url: "/favicon.ico", sizes: "any" },
     ],
   },
