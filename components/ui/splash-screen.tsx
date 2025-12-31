@@ -75,7 +75,7 @@ export function SplashScreen({ onComplete }: { onComplete: () => void }) {
           <div className="w-20 h-20 mx-auto mb-4 bg-emerald-600 rounded-full flex items-center justify-center text-white text-4xl font-bold shadow-lg">
             🌾
           </div>
-          <h1 className="text-5xl font-bold text-white drop-shadow-lg mb-3">FarmLease</h1>
+          <h1 className="text-5xl font-bold text-white drop-shadow-lg mb-3">FarmKodi</h1>
           <h2 className="text-2xl font-semibold text-emerald-50 drop-shadow-md">Kenya</h2>
         </div>
 
@@ -97,7 +97,7 @@ export function SplashScreen({ onComplete }: { onComplete: () => void }) {
       }`}
     >
               <Image
-              src="/farmlease.png" 
+              src="/FarmK.png" 
               alt="Splash Background"
               fill
               className="object-cover"

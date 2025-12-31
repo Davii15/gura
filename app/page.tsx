@@ -8,6 +8,7 @@ import { UserTestimonials } from "@/components/home/user-testimonials"
 import { BlogSection } from "@/components/home/blog-section"
 import { NewListingsAlert } from "@/components/home/new-listings-alert"
 //import { AuthCard } from "@/components/home/auth-card"
+import { ContactButtons } from "@/components/home/contact-buttons"
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
       <GreetingCard />
     {/*  <AuthCard />*/}
       <HeroSection />
+      <ContactButtons />
       <SeasonalRecommendations />
       <CategoriesSection />
       <FeaturedListings />
