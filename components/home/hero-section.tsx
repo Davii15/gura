@@ -31,7 +31,7 @@ export function HeroSection() {
           <span className="text-primary block">Agricultural Opportunity</span>
         </h1>
         <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto text-pretty">
-          Jiunge Na landowners and farmers across Kenya. Lease farmland, plantations, and machinery with ease. Si Lazima uwe na Mashamba Yako ili ufanikiwe katika ukulima, unaweza kodi  ama kukodisha na FarmKodi , Tazama na ujichangulie Kile ungetaka,pia utapata mawaidha ya upanzi au ukulima kutoka kwa wataalamu, na pia wakulima waliofaidika kutoka Farm Kodi na pia washikadau wengine hapo chini 👇 
+          Jiunge Na landowners and farmers across Kenya. Lease farmland, plantations, and machinery with ease. Si Lazima uwe na Mashamba Yako ili ufanikiwe katika ukulima, unaweza kodi  ama kukodisha na FarmKodi , Tazama na ujichangulie Kile ungetaka,pia utapata mawaidha ya upanzi au ukulima kutoka kwa wataalamu, na pia wakulima waliofaidika kutoka Farm Kodi na pia washikadau wengine,Kukodi ama Kukodisha tumia aidha ya mawasiliano tuliyoweka hapo chini 👇 na utasaidika
         </p>
         <h1 className="text-4xl md:text-6xl font-bold text-balance mb-6">
         <span className="text-primary block">Asante na Karibu Nyumbani kwa Ukulima, tunawiri pamoja 👐</span>

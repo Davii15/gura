@@ -56,7 +56,7 @@ export function TrustedPartners() {
     <section className="py-16 px-4 bg-gradient-to-r from-primary/5 via-background to-primary/5 overflow-hidden">
       <div className="container mx-auto">
         <div className="text-center mb-12">
-          <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Our Trusted Partners</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Washika Dau Wenzetu</h2>
           <p className="text-lg text-muted-foreground">Working together to transform agriculture in Kenya</p>
         </div>
 

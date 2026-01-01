@@ -94,7 +94,7 @@ export default function Contact() {
                 </div>
               </CardHeader>
               <CardContent className="text-gray-700">
-                <p>FarmLease Kenya</p>
+                <p>FarmKodi Kenya</p>
                 <p>Nairobi, Kenya</p>
               </CardContent>
             </Card>

@@ -47,12 +47,7 @@ export function Footer() {
                 <Link href="/" className="text-emerald-100 hover:text-emerald-300 transition">
                   Home
                 </Link>
-              </li>
-              <li>
-                <Link href="#" className="text-emerald-100 hover:text-emerald-300 transition">
-                  How It Works
-                </Link>
-              </li>
+              </li>        
             </ul>
           </div>
 
@@ -75,11 +70,12 @@ export function Footer() {
                   About Us
                 </Link>
               </li>
-              <li>
+             {/* <li>
                 <Link href="/legal/cookie-policy" className="text-emerald-100 hover:text-emerald-300 transition">
                   Cookie Policy
                 </Link>
               </li>
+  */}
             </ul>
           </div>
 
@@ -93,7 +89,7 @@ export function Footer() {
                   href="mailto:waikwa1@yahoo.com"
                   className="text-emerald-100 hover:text-emerald-300 transition"
                 >
-                  support@farmleasekenya.com | waikwa1@yahoo.com
+                  support@farmkodi.com | waikwa1@yahoo.com
                 </a>
               </div>
               <div>

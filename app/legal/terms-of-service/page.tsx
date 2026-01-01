@@ -10,7 +10,7 @@ export default function TermsOfService() {
             <div>
               <h2 className="text-2xl font-semibold text-emerald-800 mb-3">1. Acceptance of Terms</h2>
               <p className="text-gray-700">
-                By accessing and using FarmLease Kenya, you agree to be bound by these Terms of Service. If you do not
+                By accessing and using FarmKodi Kenya, you agree to be bound by these Terms of Service. If you do not
                 agree to abide by the above, please do not use this service.
               </p>
             </div>
@@ -18,7 +18,7 @@ export default function TermsOfService() {
             <div>
               <h2 className="text-2xl font-semibold text-emerald-800 mb-3">2. Disclaimer</h2>
               <p className="text-gray-700">
-                The materials on FarmLease Kenya are provided on an 'as is' basis. FarmLease Kenya makes no warranties,
+                The materials on FarmKodi Kenya are provided on an 'as is' basis. FarmKodi Kenya makes no warranties,
                 expressed or implied, and hereby disclaims and negates all other warranties including, without
                 limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or
                 non-infringement of intellectual property or other violation of rights.
@@ -28,9 +28,9 @@ export default function TermsOfService() {
             <div>
               <h2 className="text-2xl font-semibold text-emerald-800 mb-3">3. Limitations</h2>
               <p className="text-gray-700">
-                In no event shall FarmLease Kenya or its suppliers be liable for any damages (including, without
+                In no event shall FarmKodi Kenya or its suppliers be liable for any damages (including, without
                 limitation, damages for loss of data or profit, or due to business interruption) arising out of the use
-                or inability to use the materials on FarmLease Kenya, even if we or an authorized representative has
+                or inability to use the materials on FarmKodi Kenya, even if we or an authorized representative has
                 been notified orally or in writing of the possibility of such damage.
               </p>
             </div>
@@ -38,7 +38,7 @@ export default function TermsOfService() {
             <div>
               <h2 className="text-2xl font-semibold text-emerald-800 mb-3">4. Modifications</h2>
               <p className="text-gray-700">
-                FarmLease Kenya may revise these terms of service for its website at any time without notice. By using
+                FarmKodi Kenya may revise these terms of service for its website at any time without notice. By using
                 this website, you are agreeing to be bound by the then current version of these terms of service.
               </p>
             </div>
@@ -57,9 +57,9 @@ export default function TermsOfService() {
                 If you have any questions about these Terms of Service, please contact us at:
               </p>
               <p className="text-gray-700 mt-2">
-                FarmLease Kenya
+                FarmKodi Kenya
                 <br />
-                Email: support@farmleasekenya.com | blackdavidd24@gmail.com
+                Email: support@farmkodi.com | blackdavidd24@gmail.com
                 <br />
                 Phone: +254 798 639 180
                 <br />

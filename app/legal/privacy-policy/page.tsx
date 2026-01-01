@@ -10,7 +10,7 @@ export default function PrivacyPolicy() {
             <div>
               <h2 className="text-2xl font-semibold text-emerald-800 mb-3">Introduction</h2>
               <p className="text-gray-700">
-                FarmLease Kenya ("we" or "us" or "our") operates the farmleasekenya.com website (the "Site"). This page
+                FarmKodi Kenya ("we" or "us" or "our") operates the farmkodi.com website (the "Site"). This page
                 informs you of our policies regarding the collection, use, and disclosure of personal data when you use
                 our Site and the choices you have associated with that data.
               </p>
@@ -22,7 +22,7 @@ export default function PrivacyPolicy() {
                 If you have any questions about this Privacy Policy, please contact us at:
               </p>
               <p className="text-gray-700 mt-2">
-                Email: privacy@farmleasekenya.com | blackdavidd24@gmail.com
+                Email: privacy@farmkodi.com | blackdavidd24@gmail.com
                 <br />
                 Phone: +254 798 639 180
               </p>

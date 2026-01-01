@@ -19,7 +19,7 @@ const mockTestimonials: Testimonial[] = [
     role: "Maize Farmer",
     image: "👨‍🌾",
     quote:
-      "FarmLease Kenya transformed my farming business. I found premium equipment at affordable rates and significantly increased my productivity. The platform is easy to use and the support is outstanding.",
+      "FarmKodi Kenya transformed my farming business. I found premium equipment at affordable rates and significantly increased my productivity. The platform is easy to use and the support is outstanding.",
     rating: 5,
     location: "Trans Nzoia County",
   },
@@ -29,7 +29,7 @@ const mockTestimonials: Testimonial[] = [
     role: "Coffee Plantation Owner",
     image: "👩‍🌾",
     quote:
-      "Leasing my coffee plantation through FarmLease Kenya was the best decision. I connected with experienced farmers who take excellent care of my land. The platform provides security and transparency throughout the process.",
+      "Leasing my coffee plantation through FarmKodi Kenya was the best decision. I connected with experienced farmers who take excellent care of my land. The platform provides security and transparency throughout the process.",
     rating: 5,
     location: "Murang'a County",
   },
@@ -39,7 +39,7 @@ const mockTestimonials: Testimonial[] = [
     role: "Dairy Farmer",
     image: "👨‍💼",
     quote:
-      "The seasonal recommendations helped me plan my operations perfectly. I saved 40% on equipment costs by leasing through FarmLease. Highly recommend to any farmer looking to optimize their business.",
+      "The seasonal recommendations helped me plan my operations perfectly. I saved 40% on equipment costs by leasing through FarmKodi. Highly recommend to any farmer looking to optimize their business.",
     rating: 5,
     location: "Nandi County",
   },
@@ -59,7 +59,7 @@ const mockTestimonials: Testimonial[] = [
     role: "Machinery Supplier",
     image: "👨‍🔧",
     quote:
-      "FarmLease Kenya gave me a platform to put my equipment to productive use. Consistent income and well-maintained machinery. The booking system is seamless and farmer response is excellent.",
+      "FarmKodi Kenya gave me a platform to put my equipment to productive use. Consistent income and well-maintained machinery. The booking system is seamless and farmer response is excellent.",
     rating: 4.8,
     location: "Kisumu County",
   },
@@ -69,7 +69,7 @@ const mockTestimonials: Testimonial[] = [
     role: "Tea Estate Manager",
     image: "👩‍🌾",
     quote:
-      "Leasing our tea estate generated significant revenue while maintaining quality. The farmers using our land follow best practices. FarmLease connects quality-conscious operators with landowners.",
+      "Leasing our tea estate generated significant revenue while maintaining quality. The farmers using our land follow best practices. FarmKodi connects quality-conscious operators with landowners.",
     rating: 5,
     location: "Kericho County",
   },

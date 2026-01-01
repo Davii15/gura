@@ -35,7 +35,7 @@ export function ListingAgreementNotice() {
           <CheckCircle2 className="h-4 w-4 text-blue-600" />
           <AlertDescription className="text-blue-900">
             <strong>For Farmers/Visitors:</strong> All listings are subject to verification. We recommend conducting due
-            diligence, site visits, and legal verification before making any leasing agreements. FarmLease Kenya is not
+            diligence, site visits, and legal verification before making any leasing agreements. FarmKodi Kenya is not
             responsible for disputes between parties.
           </AlertDescription>
         </Alert>
@@ -63,7 +63,7 @@ export function ListingAgreementNotice() {
               </p>
 
               <p>
-                <strong>3. Dispute Resolution:</strong> FarmLease Kenya facilitates connections but does not participate
+                <strong>3. Dispute Resolution:</strong> FarmKodi Kenya facilitates connections but does not participate
                 in disputes. Parties must resolve issues independently or through legal channels.
               </p>
 
@@ -73,7 +73,7 @@ export function ListingAgreementNotice() {
               </p>
 
               <p>
-                <strong>5. Liability:</strong> FarmLease Kenya is not liable for losses, damages, or disputes arising
+                <strong>5. Liability:</strong> FarmKodi Kenya is not liable for losses, damages, or disputes arising
                 from transactions made through our platform.
               </p>
 
@@ -96,7 +96,7 @@ export function ListingAgreementNotice() {
         )}
 
         <div className="pt-2 text-xs text-gray-600 border-t border-emerald-200">
-          Last updated: November 2024 | For complete details, visit our{" "}
+          Last updated: December 2025 | For complete details, visit our{" "}
           <a href="/legal/terms-of-service" className="text-emerald-600 hover:underline">
             Terms of Service
           </a>

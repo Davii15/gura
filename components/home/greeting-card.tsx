@@ -49,7 +49,7 @@ export function GreetingCard() {
             <h1 className="text-3xl md:text-4xl font-bold text-emerald-800 mb-2">{greeting}, Welcome! 👋</h1>
             <p className="text-lg md:text-xl text-emerald-700 font-medium">Asante kwa Kututembelea 🤝🏿</p>
             <p className="text-sm md:text-base text-emerald-600 mt-2">
-              Thank you for visiting FarmLease Kenya - Your Agricultural Marketplace
+              Thank you for visiting FarmKodi Kenya - Your Agricultural Marketplace
             </p>
           </div>
 

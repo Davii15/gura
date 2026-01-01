@@ -4,7 +4,7 @@ export default function AboutUs() {
       <div className="container mx-auto px-4 py-12 max-w-3xl">
         <div className="space-y-8">
           <div>
-            <h1 className="text-4xl font-bold text-emerald-900 mb-4">About FarmLease Kenya</h1>
+            <h1 className="text-4xl font-bold text-emerald-900 mb-4">Kuhusu FarmKodi Kenya</h1>
             <p className="text-lg text-gray-700">Connecting farmers with opportunities, one lease at a time.</p>
           </div>
 
@@ -71,7 +71,7 @@ export default function AboutUs() {
               <p>
                 <strong className="text-emerald-900">Email:</strong>
                 <br />
-                support@farmleasekenya.com
+                support@farmkodi.com
               </p>
               <p>
                 <strong className="text-emerald-900">Phone:</strong>
