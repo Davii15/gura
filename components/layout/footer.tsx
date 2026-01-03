@@ -12,21 +12,11 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* About Section */}
           <div>
-            <h3 className="font-bold text-xl mb-4 text-emerald-300">FarmLease Kenya</h3>
+            <h3 className="font-bold text-xl mb-4 text-emerald-300">FarmKodi Kenya</h3>
             <p className="text-emerald-100 text-sm mb-4">
               Your trusted marketplace for leasing farmland, plantations, and agricultural machinery across Kenya.
             </p>
-            <div className="flex gap-4">
-              <a href="#" className="hover:text-emerald-300 transition">
-                📱
-              </a>
-              <a href="#" className="hover:text-emerald-300 transition">
-                🐦
-              </a>
-              <a href="#" className="hover:text-emerald-300 transition">
-                📘
-              </a>
-            </div>
+          
           </div>
 
           {/* Quick Links */}
@@ -81,7 +71,7 @@ export function Footer() {
 
           {/* Contact Section */}
           <div>
-            <h4 className="font-bold text-lg mb-4 text-emerald-300">Contact Details</h4>
+            <h4 className="font-bold text-lg mb-4 text-emerald-300">Ongea Nasi</h4>
             <div className="space-y-3 text-sm">
               <div>
                 <p className="font-semibold text-emerald-300">Email</p>

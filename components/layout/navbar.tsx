@@ -15,7 +15,7 @@ export function Navbar() {
         <div className="flex h-16 items-center justify-between">
           <div className="flex items-center space-x-8">
             <Link href="/" className="text-xl font-bold text-primary">
-              FarmLease Kenya
+              FarmKodi Kenya
             </Link>
             <div className="hidden md:flex space-x-6">
               <Link href="/listings" className="text-foreground hover:text-primary">
