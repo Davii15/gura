@@ -35,10 +35,10 @@ export function ContactButtons() {
   }
 
   const buttons = [
-    { label: "Piga Simu", icon: Phone, color: "bg-blue-600 hover:bg-blue-700", action: handleCall },
-    { label: "Tuma SMS", icon: MessageSquare, color: "bg-orange-500 hover:bg-orange-600", action: handleSMS },
-    { label: "WhatsApp Us", icon: MessageCircle, color: "bg-green-500 hover:bg-green-600", action: handleWhatsApp },
-    { label: "Email Us", icon: Mail, color: "bg-red-500 hover:bg-red-600", action: handleEmail },
+    { label: "Piga Simu", icon: Phone, color: "bg-blue-700 hover:bg-blue-800", action: handleCall },
+    { label: "Tuma SMS", icon: MessageSquare, color: "bg-orange-700 hover:bg-orange-800", action: handleSMS },
+    { label: "WhatsApp Us", icon: MessageCircle, color: "bg-green-700 hover:bg-green-800", action: handleWhatsApp },
+    { label: "Email Us", icon: Mail, color: "bg-red-700 hover:bg-red-800", action: handleEmail },
   ]
 
   return (
