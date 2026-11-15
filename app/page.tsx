@@ -22,12 +22,12 @@ export default function HomePage() {
       <GreetingCard />
     {/*  <AuthCard />*/}
       <HeroSection />
-      <ContactButtons />
       <SeasonalRecommendations />
       <CategoriesSection />
       <FeaturedListings />
       <FarmkodiDownload />
       <FarmkodiRegistration />
+      <ContactButtons />
       <BlogSection />
       <UserTestimonials />
       <TrustedPartners />

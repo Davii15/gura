@@ -41,8 +41,7 @@ export function FarmkodiDownload() {
             <ArrowDownToLine aria-hidden="true" className="size-5" />
             Download Farmkodi APK
           </a>
-          <p className="mt-3 text-sm text-[#68776d]">Android installation file · Place your app at <code className="rounded bg-white px-1.5 py-0.5 text-xs">public/Farmkodi.apk</code></p>
-
+         
           <div className="mt-7 flex max-w-lg gap-3 rounded-xl border border-emerald-900/10 bg-white/80 p-4 text-sm leading-6 text-[#47584d]">
             <ShieldCheck aria-hidden="true" className="mt-0.5 size-5 shrink-0 text-[#1e6845]" />
             <p><strong className="text-[#173b2b]">Keep your phone protected.</strong> Google Play Protect helps detect harmful apps. Only install this APK if you trust its source and have verified it is the official Farmkodi file. We do not recommend turning Play Protect off.</p>
