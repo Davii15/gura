@@ -4,7 +4,7 @@ export default function TermsOfService() {
       <div className="container mx-auto px-4 py-12 max-w-3xl">
         <div className="prose prose-emerald max-w-none">
           <h1 className="text-4xl font-bold text-emerald-900 mb-2">Terms of Service</h1>
-          <p className="text-gray-600 mb-8">Last updated: December 2025</p>
+          <p className="text-gray-600 mb-8">Last updated: August 2026</p>
 
           <section className="space-y-6">
             <div>

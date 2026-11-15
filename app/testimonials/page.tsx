@@ -15,9 +15,9 @@ export default function TestimonialsPage() {
     <main className="pt-8">
       <div className="bg-gradient-to-r from-primary/10 to-primary/5 py-12 px-4">
         <div className="container mx-auto text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">What Our Users Say</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-4">What Our Client Say</h1>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Discover how FarmLease Kenya is revolutionizing agriculture across the country with real stories from our
+            Discover how FarmKodi Kenya is revolutionizing agriculture across the country with real stories from our
             community
           </p>
         </div>
@@ -45,7 +45,7 @@ export default function TestimonialsPage() {
         <div className="container mx-auto text-center">
           <h2 className="text-3xl font-bold text-foreground mb-6">Ready to Join Our Community?</h2>
           <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
-            Start your agricultural journey with FarmLease Kenya today. Connect with other farmers, access quality land
+            Start your agricultural journey with FarmKodi Kenya today. Connect with other farmers, access quality land
             and equipment, and grow your business.
           </p>
           <button className="px-8 py-3 bg-primary text-primary-foreground rounded-lg font-medium hover:bg-primary/90 transition-colors">

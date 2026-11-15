@@ -34,8 +34,8 @@ export function FarmkodiDownload() {
           </p>
 
           <a
-            href="/Farmkodi.apk"
-            download="Farmkodi.apk"
+            href="/FarmKodi.apk"
+            download="FarmKodi.apk"
             className="mt-8 inline-flex min-h-14 items-center justify-center gap-3 rounded-xl bg-[#1e6845] px-6 py-3 text-base font-semibold text-white shadow-lg shadow-emerald-950/10 transition hover:bg-[#18573a] focus-visible:outline-none focus-visible:ring-4 focus-visible:ring-emerald-700/30"
           >
             <ArrowDownToLine aria-hidden="true" className="size-5" />

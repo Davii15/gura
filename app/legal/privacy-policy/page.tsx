@@ -4,13 +4,13 @@ export default function PrivacyPolicy() {
       <div className="container mx-auto px-4 py-12 max-w-3xl">
         <div className="prose prose-emerald max-w-none">
           <h1 className="text-4xl font-bold text-emerald-900 mb-2">Privacy Policy</h1>
-          <p className="text-gray-600 mb-8">Last updated: December 2025</p>
+          <p className="text-gray-600 mb-8">Last updated: August 2026</p>
 
           <section className="space-y-6">
             <div>
               <h2 className="text-2xl font-semibold text-emerald-800 mb-3">Introduction</h2>
               <p className="text-gray-700">
-                FarmKodi Kenya ("we" or "us" or "our") operates the farmkodi.com website (the "Site"). This page
+                FarmKodi Kenya ("we" or "us" or "our") operates the farmkodi website (the "Site"). This page
                 informs you of our policies regarding the collection, use, and disclosure of personal data when you use
                 our Site and the choices you have associated with that data.
               </p>
@@ -22,7 +22,7 @@ export default function PrivacyPolicy() {
                 If you have any questions about this Privacy Policy, please contact us at:
               </p>
               <p className="text-gray-700 mt-2">
-                Email: privacy@farmkodi.com | blackdavidd24@gmail.com
+                Email: blackdavidd24@gmail.com
                 <br />
                 Phone: +254 798 639 180
               </p>

@@ -92,10 +92,10 @@ export default function AboutUs() {
           </div>
 
           <div className="bg-gradient-to-r from-emerald-600 to-emerald-700 rounded-lg p-6 text-white">
-            <h2 className="text-2xl font-semibold mb-3">PRODUCT OF CTECH SOLUTIONS</h2>
-            <p className="mb-2">®™ ALL RIGHTS RESERVED 2025</p>
+            <h2 className="text-2xl font-semibold mb-3">PRODUCT OF CTECH SOLUTIONS®™</h2>
+            <p className="mb-2">ALL RIGHTS RESERVED 2026</p>
             <p className="text-emerald-100">
-              Developed and maintained with excellence by CTECH Solutions - Your Technology Partner for Agricultural
+              Developed and maintained with excellence by CTECH Solutions®™ - Your Technology Partner for Agricultural
               Innovation.
             </p>
           </div>

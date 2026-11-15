@@ -59,12 +59,6 @@ export function LoginForm() {
             {loading ? "Signing in..." : "Sign In"}
           </Button>
         </form>
-        <div className="mt-4 text-center text-sm text-muted-foreground">
-          <p>Demo credentials:</p>
-          <p>Admin: admin@farmland.co.ke / password</p>
-          <p>Farmer: farmer@example.com / password</p>
-          <p>Owner: owner@example.com / password</p>
-        </div>
       </CardContent>
     </Card>
   )

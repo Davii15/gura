@@ -15,7 +15,7 @@ export function FarmkodiRegistration() {
               Ready to get started?
             </h2>
             <p className="mt-4 max-w-xl text-base leading-7 text-white/75">
-              Register through our form to join Farmkodi. It only takes a few minutes to share your details and get connected. NB:Registration Fee is 500 Non-refundable!
+              Register through our form to join Farmkodi. It only takes a few minutes to share your details and get connected. NB:Registration Fee is 500 Non-refundable! Piga Simu hii kwa maelezo zaidi ya Kulipa +254 798639180
             </p>
           </div>
           <a
