@@ -71,7 +71,7 @@ export default function AboutUs() {
               <p>
                 <strong className="text-emerald-900">Email:</strong>
                 <br />
-                support@farmkodi.com
+                info.ctechsolutions1@gmail.com
               </p>
               <p>
                 <strong className="text-emerald-900">Phone:</strong>

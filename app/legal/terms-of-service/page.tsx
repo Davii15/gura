@@ -59,7 +59,7 @@ export default function TermsOfService() {
               <p className="text-gray-700 mt-2">
                 FarmKodi Kenya
                 <br />
-                Email: support@farmkodi.com | blackdavidd24@gmail.com
+                Email: info.ctechsolutions1@gmail.com
                 <br />
                 Phone: +254 798 639 180
                 <br />

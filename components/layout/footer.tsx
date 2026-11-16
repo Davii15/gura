@@ -79,7 +79,7 @@ export function Footer() {
                   href="mailto:waikwa1@yahoo.com"
                   className="text-emerald-100 hover:text-emerald-300 transition"
                 >
-                  support@farmkodi.com | waikwa1@yahoo.com
+                  info.ctechsolutions1@gmail.com
                 </a>
               </div>
               <div>
